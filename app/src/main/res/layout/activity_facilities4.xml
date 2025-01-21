@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".facilitiesActivity4">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:text="Why DIU Transport?"
+        android:textAlignment="center"
+        android:textStyle="bold"
+        android:textSize="38dp"/>
+    <View
+        android:layout_width="350dp"
+        android:layout_height="3.5dp"
+        android:layout_gravity="center"
+        android:background="#000080"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:textAlignment="center"
+        android:text="Facilities Inside The Buses"
+        android:textStyle="bold"
+        android:textSize="20dp"/>
+    <View
+        android:layout_width="200dp"
+        android:layout_marginTop="2dp"
+        android:layout_height="2dp"
+        android:layout_gravity="center"
+        android:background="#000080"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="8dp"
+        android:text="i. CCTV Camera\nii. Fire Extinguishers\niii. First Aid Box
+        \niv. Air conditioner\nv. Excellent seats and safety belt "
+        android:textStyle="normal"
+        android:textSize="20dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:textAlignment="center"
+        android:text="Benefits Of Using University Buses"
+        android:textStyle="bold"
+        android:textSize="20dp"/>
+    <View
+        android:layout_width="290dp"
+        android:layout_marginTop="2dp"
+        android:layout_height="2dp"
+        android:layout_gravity="center"
+        android:background="#000080"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="5dp"
+        android:text="i. Always on time/nii. Safe and time-consuming\niii. Better Environment
+        \niv. Reduce traffic\nv. Reduce pollution\nvi. It can teach time management\nvii. Money saver"
+        android:textStyle="normal"
+        android:textSize="20dp"/>
+
+
+
+</LinearLayout>

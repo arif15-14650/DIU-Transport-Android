@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".glActivity2">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:text="Rules and Regulations"
+        android:textStyle="bold"
+        android:textAlignment="center"
+        android:textSize="35dp"/>
+    <View
+        android:layout_width="350dp"
+        android:layout_height="3.5dp"
+        android:layout_gravity="center"
+        android:background="#000080"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:textAlignment="center"
+        android:text="Prohibited Activities"
+        android:textStyle="bold"
+        android:textSize="20dp"/>
+    <View
+        android:layout_width="150dp"
+        android:layout_marginTop="2dp"
+        android:layout_height="2dp"
+        android:layout_gravity="center"
+        android:background="#000080"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="5dp"
+        android:text="i.Students must adhere to the rules and regulations set forth by DIU regarding the use of the transport service."
+        android:textStyle="normal"
+        android:textSize="12dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="5dp"
+        android:text="ii.Any violation of the rules, including but not limited to, unauthorized access card duplication, tampering with the access card, or engaging in fraudulent activities related to the transport service, may result in disciplinary action by the proctorial committee of DIU."
+        android:textStyle="normal"
+        android:textSize="12dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="5dp"
+        android:text="iii.Students are requested to inform transport management authorities through the given contact points if they have any observatiops or feedback. However, promoting misleading content on any form of social media will be considered a violation of the rules."
+        android:textStyle="normal"
+        android:textSize="12dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="5dp"
+        android:text="iv.The proctorial committee reserves the right to investigate any reported violation and take necessary action accordingly."
+        android:textStyle="normal"
+        android:textSize="12dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:textAlignment="center"
+        android:text="Disciplinary Action"
+        android:textStyle="bold"
+        android:textSize="20dp"/>
+    <View
+        android:layout_width="150dp"
+        android:layout_marginTop="2dp"
+        android:layout_height="2dp"
+        android:layout_gravity="center"
+        android:background="#000080"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="5dp"
+        android:text="i.The proctorial committee of DIU will handle all reported violations and determine the appropriate disciplinary action based on the severity of the offense."
+        android:textStyle="normal"
+        android:textSize="12dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="5dp"
+        android:text="ii.Disciplinary actions may include, but are not limited to, warnings, fines, suspension from the transport service, or other penalties deemed necessary by the committee."
+        android:textStyle="normal"
+        android:textSize="12dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:textAlignment="center"
+        android:text="Liability"
+        android:textStyle="bold"
+        android:textSize="20dp"/>
+    <View
+        android:layout_width="65dp"
+        android:layout_marginTop="2dp"
+        android:layout_height="2dp"
+        android:layout_gravity="center"
+        android:background="#000080"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="5dp"
+        android:text="i.DIU shall not be held responsible for any loss, damage, or injury incurred during the use of the transport service ii. Students are responsible for the safekeeping of their belongings. If any students left any goods in the transport vehicles, the students have to inform the transport authority immediately."
+        android:textStyle="normal"
+        android:textSize="12dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="5dp"
+        android:text="ii.iii.	If any vehicle suddenly stops in the middle of the road due to mechanical error users need to reach their home by their own "
+        android:textStyle="normal"
+        android:textSize="12dp"/>
+</LinearLayout>

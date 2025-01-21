@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".communityActivity5">
+
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Welcome to our community"
+    android:textAlignment="center"
+    android:layout_marginTop="15dp"
+    android:textStyle="bold"
+    android:textSize="25dp"/>
+
+    <View
+        android:layout_marginTop="8dp"
+        android:layout_width="270dp"
+        android:layout_height="4.5dp"
+        android:layout_gravity="center"
+        android:background="#000080"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:layout_marginTop="30sp"
+        android:text="Select a community for more details"
+        android:textStyle="bold"
+        android:textSize="22sp" />
+
+    <Spinner
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_marginTop="20sp"
+        android:id="@+id/spinID"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:onClick="btn"
+        android:text="GO"
+        app:backgroundTint="@color/design_default_color_secondary_variant"
+        android:textSize="30sp" />
+
+</LinearLayout>

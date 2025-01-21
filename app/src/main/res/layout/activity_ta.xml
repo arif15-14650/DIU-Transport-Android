@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".taActivity">
+
+    <TextView
+        android:layout_marginTop="35dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Contact Information of Transport Authority"
+        android:textStyle="bold"
+        android:textSize="20sp"/>
+
+    <View
+        android:layout_marginTop="8dp"
+        android:layout_width="360dp"
+        android:layout_height="4.5dp"
+        android:layout_gravity="center"
+        android:background="#000080"/>
+
+    <TextView
+        android:layout_marginTop="50dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Daffodil International University\nDaffodil Smart City (DSC),\nBirulia, Savar, Dhaka-1216\n
+        Tel: +8802224441833, +8802224441834\nHelp Line: 09617901212\nFax: +8802224441835\nE-mail: admission@daffodilvarsity.edu.bd
+        \nFacebook: https://www.facebook.com/daffodilvarsity.edu.bd\nWebsite: www.daffodil.university"
+        android:textStyle="bold"
+        android:textSize="18.5sp"/>
+
+
+
+</LinearLayout>

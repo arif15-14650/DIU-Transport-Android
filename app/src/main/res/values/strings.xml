@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">anproject</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation">Close </string>
+
+    <string-array name="stringValues">
+        <item>Select weather talk to Transport or University</item>
+        <item>Transport Authority</item>
+        <item>University Authority</item>
+    </string-array>
+
+    <string-array name="spinnerValues">
+        <item>Select from here</item>
+        <item>Dhanmondi Community</item>
+        <item>Mipur Community</item>
+        <item>Uttara Community</item>
+        <item>Tongi Community</item>
+    </string-array>
+
+    <string name="fb_link"><a href="https://www.facebook.com/daffodilvarsity.edu.bd">Facebook</a></string>
+    <string name="twitter_link"><a href="https://twitter.com/daffodilvarsity">Twitter</a></string>
+    <string name="instagram_link"><a href="https://www.instagram.com/daffodil.university/">Instagram</a></string>
+    <string name="youtube_link"><a href="https://www.youtube.com/user/webmasterdiu">YouTube</a></string>
+    <string name="linkedin_link"><a href="https://www.linkedin.com/school/daffodil-international-university/">LinkedIn</a></string>
+    <string name="web_link"><a href="http://www.daffodilvarsity.edu.bd">Website</a></string> <!-- Added "http://" -->
+</resources>
